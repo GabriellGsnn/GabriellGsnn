@@ -6,7 +6,7 @@
     <img src="https://streak-stats.demolab.com?user=Gabriel%20Nascimento&theme=graywhite&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak"/>
   </a>
   
-  <a href="https://github.com/Gabriel-Nascimento">
+  <a href="https://github.com/GabriellGsnn">
     <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Nascimento&theme=graywhite&show_icons=true" alt="Gabriel Nascimento stats"/>
   </a>
 
